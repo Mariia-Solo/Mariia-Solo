@@ -1,9 +1,9 @@
 Hello!👋 
 
 I am Mariia Soloveva. 
-Welcome to my GitHub!
+Welcome to my GitHub!:tulip:
 
-I’m a student on QA Course by Vadim Ksenzov :computer:
+I’m a student on QA Course by Vadim Ksenzov 
 
 I know:
 
@@ -18,6 +18,8 @@ I know:
 :small_blue_diamond: [JMeter](https://github.com/Mariia-Solo/JMeter)
 
 :small_blue_diamond: [ADB](https://github.com/Mariia-Solo/ADB)
+
+:small_blue_diamond: Android studio
 
 📫 How to reach me: **[Linkedin](https://www.linkedin.cn/in/maria-soloveva-13a7aa224/)**
 
